@@ -2,8 +2,8 @@
 
 <img src="./20230522_134840.jpg" />
 
-## Hi there, I'm Robert Alvarez! 👋
-I'm a passionate student pursuing a Bachelor of Science in Computational Modeling and Data Analytics at Virginia Tech. Welcome to my GitHub profile, where I share my coding projects and contributions. Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
+## Hi there, I'm Bobby Alvarez! 👋
+I'm a passionate student pursuing a Bachelor of Science in Computational Modeling and Data Analytics at Virginia Tech. Welcome to my GitHub profile, where I share my coding projects and contributions. Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas! 
 
 ## 🔧 Technical Skills
 - **Languages**: Java, Python, R, HTML, CSS, Solidity, C, SQL, LaTeX, MATLAB
@@ -58,7 +58,5 @@ I'm a passionate student pursuing a Bachelor of Science in Computational Modelin
 
 ## 📫 Contact Me
 - GitHub: [GitHub Profile](https://github.com/OhArray)
-- Email: [alvarezbobby9@vt.edu](mailto:alvarezbobby9@vt.edu)
-- Phone: 703-483-5588
 
 Thank you for visiting my GitHub profile! Feel free to connect with me and explore my projects. 😊
