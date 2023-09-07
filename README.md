@@ -38,6 +38,7 @@ I'm a passionate student pursuing a Bachelor of Science in Computational Modelin
 ## 📝 Publications
 - **Privatizing the Volume and Timing of Transactions for Blockchain Applications** (ICCCN 2023)
   - [Read Paper](https://ieeexplore.ieee.org/document/10230098)
+  - [Repo](https://github.com/trevormil/privatizing-blockchain-timestamps)
   - VTBC proposes a blockchain system for safeguarding volume and timing data in multi-party applications by using decoy transactions that appear real but don't impact application execution. This preserves privacy without altering the blockchain's structure, maintaining integrity and verifiability. Implemented on a private Ethereum network via a Dutch auction, the system's performance was evaluated.
 
 ## 🌟 Community & Leadership Experience
