@@ -59,6 +59,6 @@ I'm a passionate student pursuing a Bachelor of Science in Computational Modelin
 
 ## 📫 Contact Me
 - GitHub: [GitHub Profile](https://github.com/OhArray)
-- LinkedIn: [GitHub Profile](https://www.linkedin.com/in/bobby-alvarez-ba4a6a231/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bobby-alvarez-ba4a6a231/)
 
 Thank you for visiting my GitHub profile! Feel free to connect with me and explore my projects. 😊
