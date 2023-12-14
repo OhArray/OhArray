@@ -8,7 +8,7 @@ I'm a passionate student pursuing a Bachelor of Science in Computational Modelin
 ## 🔧 Technical Skills
 - **Languages**: Java, Python, R, HTML, CSS, Solidity, C, SQL, LaTeX, MATLAB
 - **Software**: Microsoft Office Suite, VS Code, Autodesk Inventor, Adobe Creative Cloud, Linux
-- **Libraries**: OpenMP, MPI, NumPy, Matplotlib, Keras, Cuda
+- **Libraries**: OpenMP, MPI, NumPy, Matplotlib, Keras, Nvida Cuda Toolkit, AMD HIP
 
 ## 📚 Relevant Coursework
 - Intermediate Data Analytics & ML
