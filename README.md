@@ -8,32 +8,39 @@ I'm a passionate student pursuing a Bachelor of Science in Computational Modelin
 ## 🔧 Technical Skills
 - **Languages**: Java, Python, R, HTML, CSS, Solidity, C, SQL, LaTeX, MATLAB
 - **Software**: Microsoft Office Suite, VS Code, Autodesk Inventor, Adobe Creative Cloud, Linux
-- **Libraries**: OpenMP, MPI, NumPy, Matplotlib, Keras, Nvida Cuda Toolkit, AMD HIP
+- **Libraries**: OpenMP, MPI, NumPy, Matplotlib, Keras, Nvida CUDA, AMD HIP, SLURM, CAPTUM
 
 ## 📚 Relevant Coursework
 - Intermediate Data Analytics & ML
-- Math Modeling: Methods & Tools
+- Math Modeling: Methods & Tools II
 - Data Structures and Algorithms
 - Integrated Quantitative Sci II
 - Scalable Computing for CMDA
 - Methods of Regression Analysis
 - DBMS & SQL
 - Intro Data Analytics & Visualization
+- Intermed. Data Analytics & ML
+- Deep Learning
+- Applied Bayesian Statistics
 
 ## 🎓 Education
 - **Virginia Tech** - Bachelor of Science in Computational Modeling and Data Analytics (Expected: December 2024)
-  - GPA: 3.64
+  - GPA: 3.69
   - Minors: Computer Science, Statistics, Mathematics
-  - Honors and Awards: Dean's List Spring 2022 - Spring 2023
+  - Honors and Awards: Dean's List Spring 2022 - Spring 2024
 
 - **Northern Virginia Community College** - 9 Credit Hours Completed (June 2022 - December 2022)
   - GPA: 4.0
 
-## 💼 Research Experience
+## 💼 Work Experience
 - **Undergraduate Research Assistant** at Hume Center for National Security and Technology (September 2022 - May 2023)
   - Utilized Solidity and Hardhat to deploy and test a novel blockchain security technique.
   - Proofread and edited the paper that motivates and describes the new security approach.
   - Assisted in creating a smart contract homework assignment for graduate students in a blockchain-focused class.
+ 
+- **Undergraduate Research Intern** at Virginia Tech National Security Institute, Intelligent Systems Division (May 2024 - Present)
+  - Designing and training PyTorch deep learning models trained on state of the art GPUs through SLURM
+  - Using libraries such as CAPTUM to interpret deep learning models and make informed decisions about input spaces and model explain-ability
 
 ## 📝 Publications
 - **Privatizing the Volume and Timing of Transactions for Blockchain Applications** (ICCCN 2023)
