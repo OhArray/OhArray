@@ -19,15 +19,14 @@ I'm a passionate student pursuing a Bachelor of Science in Computational Modelin
 - Methods of Regression Analysis
 - DBMS & SQL
 - Intro Data Analytics & Visualization
-- Intermed. Data Analytics & ML
 - Deep Learning
 - Applied Bayesian Statistics
 
 ## 🎓 Education
 - **Virginia Tech** - Bachelor of Science in Computational Modeling and Data Analytics (Expected: December 2024)
-  - GPA: 3.69
+  - GPA: 3.71
   - Minors: Computer Science, Statistics, Mathematics
-  - Honors and Awards: Dean's List Spring 2022 - Spring 2024
+  - Honors and Awards: Dean's List Spring 2022 - Fall 2024
 
 - **Northern Virginia Community College** - 9 Credit Hours Completed (June 2022 - December 2022)
   - GPA: 4.0
